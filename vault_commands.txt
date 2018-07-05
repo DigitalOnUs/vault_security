@@ -26,4 +26,4 @@ password       	f6743ce2-566e-e9e3-5078-dc180f0002b4
 username       	v-root-readonly-SxbCrSdNSehDm5ZDXkHQ-1499406003
 
 
-psql -d meetup -U v-root-readonly-JnYgFqF5mngnHKmXeqlq-1499407149
+psql -d meetup -U v-root-readonly-yIstPePww1PJoqw3oh2k-1499457186

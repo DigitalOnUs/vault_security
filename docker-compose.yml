@@ -1,7 +1,7 @@
 #version: '2'
 #services:
   myvault:
-    image: vault
+    image: vault:0.7.3
     container_name: myvault
     net: local_network
     ports:

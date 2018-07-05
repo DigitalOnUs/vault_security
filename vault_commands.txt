@@ -21,6 +21,7 @@ vault read database/creds/readonly
 
 psql -d meetup -U myuser
 
+\du
 
 password       	f6743ce2-566e-e9e3-5078-dc180f0002b4
 username       	v-root-readonly-SxbCrSdNSehDm5ZDXkHQ-1499406003
